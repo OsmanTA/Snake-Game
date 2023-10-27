@@ -1,0 +1,4 @@
+# Snake Game
+Used C# to construct a retro snake game. For this game you can use the arrow keys or WASD to move. At the start of the game you are asked to press a key to begin, once pressed there will be a short countdown before the snake begins to move towards the right. The snake 
+begins at a length of three. Food randomly spawns throughout the grid, but there is only one piece of food on the grid at the time. Everytime the snake runs into a piece of food, the score increases by one and the snake's length increases by one as well. If the snake hits
+itself or the grids border, the game ends. The size of the grid can be changed within the code and will scale properly based on the number of columns. Additionally, the size of the window will also scale with the grid once the program is running.
